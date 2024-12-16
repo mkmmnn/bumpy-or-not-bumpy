@@ -11,7 +11,7 @@ import SwiftUI
 struct bumpyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            InstantaneousView()
         }
     }
 }

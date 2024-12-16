@@ -1,6 +1,7 @@
 {
-  "colors" : [
+  "images" : [
     {
+      "filename" : "output_image_step2.png",
       "idiom" : "universal"
     }
   ],
